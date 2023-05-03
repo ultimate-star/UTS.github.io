@@ -721,7 +721,7 @@ footer .text a:hover {
 
 @media (max-width: 760px) {
   nav .navbar {
-    width: 90%;
+    width: 100%;
   }
 
   nav.sticky {
